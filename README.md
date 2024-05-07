@@ -1,1 +1,1 @@
-<p><h4>CODSOFT</h4> <style='color:red'>datascience virtual internship</style></p>
+<p><h4>CODSOFT</h4> datascience virtual internship</p>
